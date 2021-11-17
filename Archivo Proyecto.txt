@@ -8,4 +8,4 @@ deployment corregido
 Se realiza un proceso o cambio para hacer un rebase
 Cambio a realizar con stash
 terminamos los cambios en esta rama .punto.
-
+terminamos los cambios en esta rama.
