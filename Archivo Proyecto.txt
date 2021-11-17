@@ -6,3 +6,4 @@ correccion feature4
 deployment de la aplicacion 1.0
 deployment corregido
 Se realiza un proceso o cambio para hacer un rebase
+Cambio a realizar con stash
