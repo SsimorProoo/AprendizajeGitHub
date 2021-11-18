@@ -12,4 +12,4 @@ terminamos los cambios en esta rama.
 continuacion main
 continuacion main2
 Esta rama proximamente no se va a utilizar
-modificacion stagon1
+modificacion stagon1.
